@@ -1,0 +1,150 @@
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\appsettings.json
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.exe
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.deps.json
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.runtimeconfig.json
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\AutoMapper.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Humanizer.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Core.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project_Data.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Core.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project_Data.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.csproj.AssemblyReference.cache
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.AssemblyInfoInputs.cache
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.AssemblyInfo.cs
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.csproj.CoreCompileInputs.cache
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.HMO_Project.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.build.HMO_Project.Api.props
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMO_Project.Api.props
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMO_Project.Api.props
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\scopedcss\bundle\HMO_Project.Api.styles.css
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.csproj.CopyComplete
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\refint\HMO_Project.Api.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.genruntimeconfig.cache
+C:\learn\project\server side\HMO_Project\HMO_Project\obj\Debug\net6.0\ref\HMO_Project.Api.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Service.dll
+C:\learn\project\server side\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Service.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\appsettings.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.exe
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.deps.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.runtimeconfig.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Api.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\AutoMapper.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Humanizer.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Core.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Service.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project_Data.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Core.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project.Service.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project\bin\Debug\net6.0\HMO_Project_Data.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.csproj.AssemblyReference.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.AssemblyInfoInputs.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.AssemblyInfo.cs
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.csproj.CoreCompileInputs.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.HMO_Project.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.build.HMO_Project.Api.props
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMO_Project.Api.props
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMO_Project.Api.props
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\scopedcss\bundle\HMO_Project.Api.styles.css
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.csproj.CopyComplete
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\refint\HMO_Project.Api.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\HMO_Project.Api.genruntimeconfig.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project\obj\Debug\net6.0\ref\HMO_Project.Api.dll

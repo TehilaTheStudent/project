@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vjmwrcHcw4vXmyPhL3PRLjUd8LhQD0tJ/LT1WAwt99guT9U0G6D0yhc/0tPC3jr/rgh+UVvM4HRzlNgyuucRQ==",
+  "success": true,
+  "projectFilePath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Service\\HMO_Project.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

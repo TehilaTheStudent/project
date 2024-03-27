@@ -1,0 +1,30 @@
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.deps.json
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.dll
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Core.dll
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Core.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.AssemblyReference.cache
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.AssemblyInfoInputs.cache
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.AssemblyInfo.cs
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.CoreCompileInputs.cache
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.CopyComplete
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.dll
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\refint\HMO_Project.Service.dll
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.pdb
+C:\learn\project\server side\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\ref\HMO_Project.Service.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.deps.json
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Core.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Core.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.AssemblyReference.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.AssemblyInfoInputs.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.AssemblyInfo.cs
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.CoreCompileInputs.cache
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.CopyComplete
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\refint\HMO_Project.Service.dll
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.pdb
+C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\ref\HMO_Project.Service.dll
