@@ -1,5 +1,5 @@
 
-///npm install @mui/material @emotion/react @emotion/styled
+
 
 import React from "react";
 import { Card, CardContent, Typography, Table, TableBody, TableCell, TableRow,Avatar } from "@mui/material";
