@@ -1,4 +1,4 @@
-# Tehila Aharonovich
+# Tehila Aharonovich - פרויקט תקשוב הדסים
 ## whats in the reposotory 
 - ### Exercise 1 - Twitter Towers :
 
