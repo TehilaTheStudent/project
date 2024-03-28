@@ -31,7 +31,7 @@
         Architectural Specification:
         A description of how to call the different services with the API and a schematic view of the information in the database.
         The specification document is located in the **architecturalSpecification** folder.
-  - #### Part B - Quality Strategy:
+     - #### Part B - Quality Strategy:
     Requirement Review Document:
     
     Analysis of the new feature's specification in the project.
@@ -62,6 +62,8 @@ Open the project in Visual Studio Code.
 Type npm install to install node_modules.
 
 Type npm start to run the application.
+
+you will see:
 
 ![צילום מסך 2024-03-28 015741](https://github.com/TehilaTheStudent/project/assets/146730488/6f39e6b1-f20a-4cc0-b53b-733acf2ef02c)
 ![צילום מסך 2024-03-28 015855](https://github.com/TehilaTheStudent/project/assets/146730488/6f8daf8d-b5bb-41c1-ad2f-361a47f4525e)
