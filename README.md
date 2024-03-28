@@ -56,13 +56,15 @@ Type update-database.
 
 Run the application.
 ### 3. Running the Client Side:
+(while server-side is running, of course)
+
 Open the client-side/my-react-app folder.
 
 Open the project in Visual Studio Code.
 
-Type npm install to install node_modules.
+Type int terminal: npm install to install node_modules.
 
-Type npm start to run the application.
+npm start to run the application.
 
 you will see:
 
