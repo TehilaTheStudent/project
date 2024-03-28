@@ -30,6 +30,7 @@
    
         Architectural Specification:
         A description of how to call the different services with the API and a schematic view of the information in the database.
+      
         The specification document is located in the **architecturalSpecification** folder.
      - #### Part B - Quality Strategy:
     Requirement Review Document:
