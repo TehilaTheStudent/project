@@ -11,7 +11,7 @@ namespace HMO_Project.Api.Validation
         public static string? ValidMemberPostModel(MemberPostModel memberPostModel)
         {
             if (tooEarlyDate(memberPostModel.BirthDate))
-                return "birth date cant be 100 years ago";
+                return "birth date cant be more than 100 years ago";
             if (!IsValidDateTime(memberPostModel.BirthDate))
                 return "birth date cant be bigger than current date";
             if (!IsValidNumber(memberPostModel.IdNumber, 9))

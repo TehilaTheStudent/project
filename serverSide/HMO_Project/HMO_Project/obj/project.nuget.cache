@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+obd0HjiunbSO8qEN5awTRjbCu7n1VvbUVLUfmixBQd1RCkmO1sUQGvki+VvX8pFEgNe+W20CneNPq8BPzuSA==",
+  "dgSpecHash": "wl5qiqqUO+eDjb7FE9G3ue5srGrQHthj31CnFiY5qjQLzZ5966x5f2i1WQpbNp8apI3KZWPQjQkrKFSWU9kKCA==",
   "success": true,
-  "projectFilePath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project\\HMO_Project.Api.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project\\HMO_Project.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

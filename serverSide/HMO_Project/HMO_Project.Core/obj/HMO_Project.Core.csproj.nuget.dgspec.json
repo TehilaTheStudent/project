@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj": {}
+    "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj": {}
   },
   "projects": {
-    "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj": {
+    "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj",
         "projectName": "HMO_Project.Core",
-        "projectPath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,3 +32,20 @@ C:\learn\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\refint
 C:\learn\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.pdb
 C:\learn\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.genruntimeconfig.cache
 C:\learn\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\ref\HMO_Project_Data.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\bin\Debug\net6.0\HMO_Project_Data.deps.json
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\bin\Debug\net6.0\HMO_Project_Data.runtimeconfig.json
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\bin\Debug\net6.0\HMO_Project_Data.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\bin\Debug\net6.0\HMO_Project_Data.pdb
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\bin\Debug\net6.0\HMO_Project.Core.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\bin\Debug\net6.0\HMO_Project.Core.pdb
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.csproj.CopyComplete
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\refint\HMO_Project_Data.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.pdb
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\HMO_Project_Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project_Data\obj\Debug\net6.0\ref\HMO_Project_Data.dll

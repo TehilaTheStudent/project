@@ -2067,11 +2067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project_Data\\HMO_Project_Data.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project_Data\\HMO_Project_Data.csproj",
       "projectName": "HMO_Project_Data",
-      "projectPath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project_Data\\HMO_Project_Data.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project_Data\\HMO_Project_Data.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project_Data\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project_Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2088,8 +2088,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj": {
-              "projectPath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj"
+            "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Core\\HMO_Project.Core.csproj"
             }
           }
         }

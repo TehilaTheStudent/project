@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vjmwrcHcw4vXmyPhL3PRLjUd8LhQD0tJ/LT1WAwt99guT9U0G6D0yhc/0tPC3jr/rgh+UVvM4HRzlNgyuucRQ==",
+  "dgSpecHash": "N0gRgV7045myurCkWAIEedRi0XMkPifgouvp/x3Tfyl/WRUmlg9Dd5qSX26do7ZFLAW2Ota6ApRX9IYvSInAWw==",
   "success": true,
-  "projectFilePath": "C:\\learn\\project\\serverSide\\HMO_Project\\HMO_Project.Service\\HMO_Project.Service.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\git tries\\project\\serverSide\\HMO_Project\\HMO_Project.Service\\HMO_Project.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

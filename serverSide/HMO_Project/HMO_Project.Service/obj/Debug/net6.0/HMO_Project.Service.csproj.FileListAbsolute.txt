@@ -28,3 +28,18 @@ C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO
 C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\refint\HMO_Project.Service.dll
 C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.pdb
 C:\learn\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\ref\HMO_Project.Service.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.deps.json
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Service.pdb
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Core.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\bin\Debug\net6.0\HMO_Project.Core.pdb
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\refint\HMO_Project.Service.dll
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\HMO_Project.Service.pdb
+C:\Users\user1\Desktop\git tries\project\serverSide\HMO_Project\HMO_Project.Service\obj\Debug\net6.0\ref\HMO_Project.Service.dll
