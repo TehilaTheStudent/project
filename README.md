@@ -73,6 +73,7 @@ you will see:
 ![צילום מסך 2024-03-28 015855](https://github.com/TehilaTheStudent/project/assets/146730488/6f8daf8d-b5bb-41c1-ad2f-361a47f4525e)
 ![צילום מסך 2024-03-28 015909](https://github.com/TehilaTheStudent/project/assets/146730488/9885d386-ecca-4642-b878-0a4faad8b144)
 
+//notes: i have to add duplicate tz check
 
 
 
