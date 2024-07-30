@@ -54,12 +54,6 @@ This project is designed to manage COVID-19 data for Health Maintenance Organiza
    dotnet run
 
 
-Certainly! Here’s the README.md file starting from the client-side setup:
-
-markdown
-Copy code
-## Installation
-
 ### Client-Side
 1. Navigate to the client directory:
    ```bash
