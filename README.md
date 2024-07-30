@@ -1,84 +1,76 @@
-# Tehila Aharonovich - פרויקט תקשוב הדסים
-## whats in the reposotory 
-- ### Exercise 1 - Twitter Towers :
+# COVID-19 Management System for HMO Members
 
-  This exercise demonstrates the creation of asterisk towers of different heights.
-  
-  written in java
-  
-   The exercise files are located in the **TwitterTowers** folder.
--  ### Exercise 2 - COVID-19 Management System for HMO members
-    - #### Part A - System Development:  
-        Server Side:
-      
-        A project for managing information HMO members, their       COVID-19 infections, and the vaccinations they          received.
-      
-        Developed in C# with a connection to a SQL Server               database      using Entity Framework.
-      
-        Exposed to GET and POST requests, allowing data retrieval   and   access.
-      
-        Server-side project is located in the **serverSide** folder.
-    - #### Bonus Task:
-      client side in REACT
-      
-      Ability to upload an image from the client side.
-   
-      Displaying the uploaded image.
-   
-      A summary view of the COVID-19 topic.
-      
-       Bonus task project is located in the **clientSide** folder.
-   
-        Architectural Specification:
-        A description of how to call the different services with the API and a schematic view of the information in the database.
-      
-        The specification document is located in the **architecturalSpecification** folder.
-     - #### Part B - Quality Strategy:
-    Requirement Review Document:
-    
-    Analysis of the new feature's specification in the project.
-    
-    The requirement review document is located in the **qualityStrategy** folder.
+## Overview
+This project is designed to manage COVID-19 data for Health Maintenance Organization (HMO) members. It includes a server-side application developed in C# and a client-side application built with React.
 
-## User Instructions:
-### 1. Cloning the Repository:
-git clone https://github.com/TehilaTheStudent/project.git
+## Table of Contents
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
 
-### 2. Running the Server Side:
-Make sure you have .NET Core SDK 6.0 installed.
+## Features
+### Server-Side
+- Manages information about HMO members, including COVID-19 infections and vaccinations.
+- Developed in C# with a SQL Server database using Entity Framework.
+- Exposes GET and POST requests for data retrieval and access.
+- Located in the **serverSide** folder.
 
-Open the server-side/HMO_Project folder.
+### Client-Side
+- Built with React to provide a user-friendly interface.
+- Allows users to upload and display images related to COVID-19.
+- Provides a summary view of COVID-19 information.
+- Located in the **clientSide** folder.
 
-Open the solution in Visual Studio 2022.
+## Technologies
+- **Server-Side:**
+  - C#
+  - .NET Core
+  - SQL Server
+  - Entity Framework
 
-Search for the Package Manager Console window.
+- **Client-Side:**
+  - React
+  - JavaScript
 
-Type update-database.
+## Installation
 
-Run the application.
-### 3. Running the Client Side:
-(while server-side is running, of course)
+### Server-Side
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TehilaTheStudent/project.git
 
-Open the client-side/my-react-app folder.
+2. Navigate to the server directory:
+   ```bash
+   cd project/serverSide
+3. Open the solution in Visual Studio 2022.
 
-Open the project in Visual Studio Code.
+4. Ensure you have the .NET Core SDK 6.0 installed.
 
-Type int terminal: npm install to install node_modules.
-
-npm start to run the application.
-
-you will see:
-
-![צילום מסך 2024-03-28 015741](https://github.com/TehilaTheStudent/project/assets/146730488/6f39e6b1-f20a-4cc0-b53b-733acf2ef02c)
-![צילום מסך 2024-03-28 015855](https://github.com/TehilaTheStudent/project/assets/146730488/6f8daf8d-b5bb-41c1-ad2f-361a47f4525e)
-![צילום מסך 2024-03-28 015909](https://github.com/TehilaTheStudent/project/assets/146730488/9885d386-ecca-4642-b878-0a4faad8b144)
-
-//notes: i have to add duplicate tz check
+5. Open the Package Manager Console and run:
+   ```bash
+   update-database
+6. Run the application:
+   ```bash
+   dotnet run
 
 
+Certainly! Here’s the README.md file starting from the client-side setup:
 
-Good luck!
+markdown
+Copy code
+## Installation
 
+### Client-Side
+1. Navigate to the client directory:
+   ```bash
+   cd project/clientSide/my-react-app
 
+2. Open the project in Visual Studio Code.
 
+3. Install dependencies:
+   ```bash
+   npm install
 
+4. Start the React application:
+   ```bash
+   npm start
